@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+
+li h1 a {
+  color: #AC4D64
+}
+
+ul li h2 {
+  margin-top: 5px;
+}
+
+li.servicio {
+  margin-right: 15px;
+}
+
+ul.nuevos.active {
+  font-style: italic;
+}
+
+a.usuario {
+  font-weight: light;
+}
+
+td.number {
+  font-weight: bold;
+}
+
+#modulos {
+  background-color: #202020;
+
+}
+
+div.ucursos {
+  background-color: #1F1C1F;
+}
+
+ul.modulos {
+  background-color: #202020
+}
+
+div.curso {
+  background-color: #202020;
+}
+
+#footer {
+  background-color: #1F1C1F;
+}
+
+
+body.logeado {
+  background-color: #1F1C1F;
+}
+
+div.sticky {
+  background-color: #1F1C1F;
+}
+
+div.texto {
+  background-color: ;
+}
+
+span.autor.sticky {
+  background-color: #1F1C1F;
+}
+
+td.number.gris {
+  background-color: #1F1C1F;
+}
+
+th.number.gris {
+  background-color: #1F1C1F;
+}
+
+th.string {
+  background-color: #1F1C1F;
+}
+
+form.filtros {
+  background-color: #1F1C1F;
+}
+
+th.bool.none {
+  background-color: #1F1C1F;
+}
+
+th.sort {
+  background-color: #1F1C1F;
+}
+
+li div h1 {
+  background-color: #1F1C1F;
+
+}
+
+li.new {
+  background-color: #1F1C1F;
+   
+}
+
+li a h1 {
+  background-color: #202020;
+}
+
+th.number.responsive.no-movil {
+  background-color: #1F1C1F;
+}
+
+th.number.sort-n {
+  background-color: #1F1C1F;
+}
+
+th.number.no-movil {
+  background-color: #1F1C1F;
+
+}
+
+th.number {
+  background-color: #1F1C1F;
+
+}
+
+a.perfil {
+  background-color: ;
+
+
+}
+
+span.fa.fa-reply {
+  display: None;
+}
+
+span.fa.fa-share-alt {
+  display: None;
+}
+
+span.glyphicon.glyphicon-option-horizontal {
+  display: None;
+}
+
+i.fa.fa-filter {
+  display: None;
+  
+}
+
+div div a {
+  font-weight: 500;
+}
